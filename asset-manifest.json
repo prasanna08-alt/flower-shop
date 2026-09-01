@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flower-shop/static/css/main.68faad43.css",
+    "main.js": "/flower-shop/static/js/main.0b54086f.js",
+    "index.html": "/flower-shop/index.html",
+    "main.68faad43.css.map": "/flower-shop/static/css/main.68faad43.css.map",
+    "main.0b54086f.js.map": "/flower-shop/static/js/main.0b54086f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68faad43.css",
+    "static/js/main.0b54086f.js"
+  ]
+}
